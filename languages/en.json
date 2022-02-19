@@ -1,28 +1,28 @@
 {
     "titles": {
-        "index": "Bedocker | Minecraft Bedrock Server Hosting",
-        "signin": "Sign in | Bedocker",
-        "signup": "Sign up | Bedocker",
-        "user": "User | Bedocker",
+        "index": "Bedocker | Hosting Server Bedrock Minecraft",
+        "signin": "Masuk | Bedocker",
+        "signup": "Daftar | Bedocker",
+        "user": "Pengguna | Bedocker",
         "404": "404 | Bedocker",
         "legal": {
-            "privacy": "Privacy Policy | Bedocker",
-            "tos": "Terms of Service | Bedocker"
+            "privacy": "Kebijakan Pribadi | Bedocker",
+            "tos": "Persyaratan Layanan | Bedocker"
         },
         "server": {
             "index": "Server Overview | Bedocker",
-            "console": "Server Console | Bedocker",
-            "settings": "Server Settings | Bedocker",
-            "importWorld": "Import world | Bedocker",
-            "setup": "Server Setup | Bedocker"
+            "console": "Konsol Server | Bedocker",
+            "settings": "Pengaturan Server | Bedocker",
+            "importWorld": "Impor World | Bedocker",
+            "setup": "Server | Bedocker"
         }
     },
     "nav": {
-        "signupin": "Sign up/in",
-        "back": "Back",
-        "signin": "Sign in",
-        "signup": "Sign up",
-        "user": "User",
+        "signupin": "Daftar/Masuk",
+        "back": "Kembali",
+        "signin": "Masuk",
+        "signup": "Daftar",
+        "user": "Pengguna",
         "dashboard": "Dashboard"
     },
     "landing": {
