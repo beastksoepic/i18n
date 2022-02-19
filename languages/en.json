@@ -1,6 +1,6 @@
 {
     "titles": {
-        "index": "Bedocker | Hosting Server Bedrock Minecraft",
+        "index": "Bedocker | Hosting Server Minecraft",
         "signin": "Masuk | Bedocker",
         "signup": "Daftar | Bedocker",
         "user": "Pengguna | Bedocker",
@@ -23,29 +23,29 @@
         "signin": "Masuk",
         "signup": "Daftar",
         "user": "Pengguna",
-        "dashboard": "Dashboard"
+        "dashboard": "Panel"
     },
     "landing": {
         "hero": {
-            "title": "Your world, <span class=\"green\">always online</span>",
-            "description": "Get started for free and create your personal Minecraft Bedrock Server. 5-minute setup. Guaranteed.",
+            "title": "Duniamu, <span class=\"green\">selalu online</span>",
+            "description": "Mulailah secara gratis dan buat Server Minecraft pribadi Anda. Pendaftaran 5 menit. Terjamin. ",
             "buttons": {
-                "createServer": "Create my server"
+                "createServer": "Buat server"
             }
         },
         "features": {
-            "title": "Why us?",
+            "title": "Mengapa kita?",
             "setup": {
-                "title": "Quick setup",
-                "description": "We will deploy your server within minutes of you creating it."
+                "title": "Pendaftaran cepat",
+                "description": "Kami akan mengatur server Anda dalam beberapa menit setelah Anda membuatnya."
             },
             "speed": {
-                "title": "Lightning fast",
-                "description": "Lag is an issue from the past with our top of the line server hardware."
+                "title": "Secepat Kilat",
+                "description": "Lag adalah masalah dari masa lalu dengan perangkat server terbaik kami. "
             },
             "panel": {
-                "title": "Easy panel",
-                "description": "Intuitive and simple for new server owners, and advanced options for experienced ones."
+                "title": "Panel mudah",
+                "description": "Intuitif dan sederhana untuk pemilik server baru, dan opsi lanjutan untuk yang berpengalaman. "
             }
         },
         "faq": {
