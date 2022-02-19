@@ -7,7 +7,7 @@
         "404": "404 | Bedocker",
         "legal": {
             "privacy": "Kebijakan Pribadi | Bedocker",
-            "tos": "Persyaratan Layanan | Bedocker"
+            "tos": "Ketentuan Layanan | Bedocker"
         },
         "server": {
             "index": "Server Overview | Bedocker",
@@ -52,20 +52,20 @@
             "title": "Frequently Asked Questions",
             "questions": {
                 "price": {
-                    "title": "How much does a Minecraft Bedrock server cost?",
-                    "description": "Bedocker allows you to get started with your own Minecraft Bedrock server free of charge. There are no hidden fees or recurring payments necessary to get up and running. Sign up now & have your own personal server ready in 5 minutes."
+                    "title": "Berapa biayanya?",
+                    "description": "Bedocker menjaminkan Anda untuk memulai dengan server Minecraft Bedrock Anda sendiri secara gratis. Tidak ada biaya tersembunyi atau pembayaran berulang yang diperlukan untuk memulai dan menjalankannya. Daftar sekarang & siapkan server pribadi Anda dalam 5 menit. "
                 },
                 "features": {
-                    "title": "What can I do with my server?",
-                    "description": "Your server is fully customizable — that means you can change any settings you want to change. That includes the maximum players, the gamemode, seed, whitelist etc."
+                    "title": "Apa yang dapat saya lakukan dengan server saya?",
+                    "description": "Server Anda sepenuhnya dapat disesuaikan — itu berarti Anda dapat mengubah pengaturan apa pun yang ingin Anda ubah. Itu termasuk max players, gamemode, seed, whitelist, dst. "
                 },
                 "uptime": {
-                    "title": "Does my server stay online?",
-                    "description": "To spare resources (memory and cores), inactive servers are stopped after six hours. We don't have a queue, so once you want to play again, it takes less than a minute to start it back up again."
+                    "title": "Apakah server saya selalu online? ",
+                    "description": "Untuk menghemat sumber daya (memori dan CPU), server yang tidak aktif dihentikan setelah enam jam. Jika Anda ingin bermain lagi, dibutuhkan waktu kurang dari satu menit untuk memulainya kembali."
                 },
                 "players": {
-                    "title": "How many people can play on my server?",
-                    "description": "The limit of how many people can join your server is up to you. A server generally runs performantly with 5-10 players online at once."
+                    "title": "Berapa banyak orang yang bisa bermain di server saya?",
+                    "description": "Batas berapa banyak orang yang dapat bergabung dengan server Anda adalah terserah Anda. Sebuah server umumnya berjalan dengan baik dengan 5-10 pemain online sekaligus."
                 }
             }
         },
@@ -312,6 +312,6 @@
             "privacy": "Privacy Policy",
             "support": "Support"
         },
-        "copyright": "(c) 2021 Bedocker. All rights reserved."
+        "copyright": "(c) 2022 Bedocker. All rights reserved."
     }
 }
